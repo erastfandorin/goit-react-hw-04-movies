@@ -1,0 +1,16 @@
+.actorItem {
+  list-style: none;
+  width: 200px;
+  margin-right: 10px;
+}
+
+.actorItemImg {
+  width: 200px;
+}
+
+.actorItemList {
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}

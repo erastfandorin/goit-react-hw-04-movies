@@ -1,0 +1,17 @@
+.form {
+  margin-left: 10px;
+}
+.formInput {
+  outline: none;
+  border: 2px solid #776e6e;
+  border-radius: 5px;
+  padding-left: 2px;
+}
+.formButton {
+  outline: none;
+  border: 2px solid #776e6e;
+  border-radius: 5px;
+  background-color: #ffffff;
+  width: 70px;
+  margin-left: 5px;
+}

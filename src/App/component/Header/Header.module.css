@@ -1,0 +1,25 @@
+.header {
+  border-bottom: 2px solid grey;
+  display: flex;
+  box-shadow: -2px 1px 5px 0px grey;
+  margin-bottom: 5px;
+}
+
+.headerNav {
+  display: flex;
+  padding: 0;
+}
+
+.headerNavItem {
+  padding-left: 22px;
+}
+
+.headerNavItemLink {
+  text-decoration: none;
+  color: black;
+  font-weight: 600;
+}
+
+.headerNavItemLinkActive {
+  color: #7b1e1e;
+}
