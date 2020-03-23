@@ -1,0 +1,1 @@
+{"version":3,"sources":["Reviews.module.css"],"names":[],"mappings":"AAAA,4BACE,SAAU,CACV,eACF","file":"reviews.f58dec69.chunk.css","sourcesContent":[".reviewsItem {\n  padding: 0;\n  list-style: none;\n}\n"]}
