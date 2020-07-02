@@ -1,6 +1,6 @@
 ## Today trending movies from The [Movie DB](https://www.themoviedb.org/documentation/api)
 
-![Imgur](https://i.imgur.com/2ox8MZp.gif)
+<img src="PromoForREADME.gif" width="200px">
 
 You can watch today trending movies
 [here](https://erastfandorin.github.io/goit-react-hw-04-movies/#/). You can
